@@ -30,5 +30,5 @@ A simple Python-based web honeypot that mimics a login page and logs unauthorize
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/yourusername/web-honeypot.git
+git clone https://github.com/Nitin12x05/web-honeypot.git
 cd web-honeypot
